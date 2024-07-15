@@ -21,26 +21,22 @@ Here are some ideas to get you started:
 
 - 🌱 I am an informatics engineering student, and now I'm studying systems analysis
 
-- 💬 Ask me about **react, express, sql, kotlin, UI/UX, Java, JavaScript, C#, CSS, AndroidDev, SystemsAnalysis**
+- 💬 Ask me about **react, express, sql, kotlin, UI/UX, Java, JavaScript, C#, CSS, FireBase, PHP, AndroidDev, SystemsAnalysis**
 
 - 📫 How to reach me **Asep Sutrisna Suhada Putra at LinkedIn**
 
 ### Connect with me:
-<a href="https://twitter.com/fadhilalf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fadhilalf" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhammad-fadhil-al-fatih/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad fadhil al-fatih" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/fadhilaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fadhilaf" height="30" width="40" /></a>
-<a href="https://kaggle.com/mfadhilalfatih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mfadhilalfatih" height="30" width="40" /></a>
-<a href="https://instagram.com/m_fadhilalfatih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_fadhilalfatih" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/falfatih3421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="falfatih3421" height="30" width="40" /></a>
-<a href="https://leetcode.com/FadhilAF" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="FadhilAF" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/asep-sutrisna-suhada-putra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asep sutrisna suhada putra" height="30" width="40" /></a>
+<a href="https://www.instagram.com/callasut/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="callasut" height="30" width="40" /></a>
 
 ### Tech Stack
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
-| [![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=7FD6EA&logo=go&logoColor=FFFFFF)](https://golang.org/) | [![perbakin-be](https://img.shields.io/static/v1?label=&message=perbakin-be&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/fadhilaf/perbakin-be) [![s-tech-pplbo](https://img.shields.io/static/v1?label=&message=s-tech-pplbo&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/fadhilaf/s-tech-pplbo) |
-| [![Typescript](https://img.shields.io/static/v1?label=&message=Typescript&color=3178C6&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/) | [![studgage-backend](https://img.shields.io/static/v1?label=&message=studgage-backend&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/fadhilaf/studgage-backend) [![ticketing-microservice-app](https://img.shields.io/static/v1?label=&message=ticketing-microservice-app&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/fadhilaf/ticketing-microservice-app) |
-| [![React](https://img.shields.io/static/v1?label=&message=React&color=007396&logo=react&logoColor=FFFFFF)](https://react.dev/) | [![studgage-frontend](https://img.shields.io/static/v1?label=&message=studgage-frontend&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/fadhilaf/studgage-frontend) |
+| [![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=7FD6EA&logo=kotlin&logoColor=FFFFFF)](https://kotlinlang.org/) | [![soccerZoneTime](https://img.shields.io/static/v1?label=&message=soccerZoneTime&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/AxsevSutrisna/SoccerZoneTimeCompose) [![storyApps](https://img.shields.io/static/v1?label=&message=storyApps&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/AxsevSutrisna/StoryApps) [![aplikasiUserGithub](https://img.shields.io/static/v1?label=&message=aplikasiUserGithub&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/AxsevSutrisna/AplikasiGithubUser) |
+| [![Java](https://img.shields.io/static/v1?label=&message=Java&color=3178C6&logo=java&logoColor=FFFFFF)](https://www.java.com/) | [![RULA](https://img.shields.io/static/v1?label=&message=RULA&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/AxsevSutrisna/RULA)  |
+| [![C-Sharp](https://img.shields.io/static/v1?label=&message=C-Sharp&color=007396&logo=c-sharp&logoColor=FFFFFF)](https://dotnet.microsoft.com/en-us/languages/csharp) | [![Nusantara](https://img.shields.io/static/v1?label=&message=Gemastik-Nusantara&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/AxsevSutrisna/GemastikProject-Game-Development) [![RoyStory](https://img.shields.io/static/v1?label=&message=RoyStory&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/AxsevSutrisna/Roy_Story_EscapeTheJungle) |
+| [![JavaScript](https://img.shields.io/static/v1?label=&message=javascript&color=007396&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com/) |  [![PMO](https://img.shields.io/static/v1?label=&message=ProjectManagementOffice&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/AxsevSutrisna/Project_Management_Office) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 
@@ -62,8 +58,20 @@ Here are some ideas to get you started:
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
     </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="react" width="40" height="40"/> 
+    </a>
+    <a href="https://www.android.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="react" width="40" height="40"/> 
+    </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original-wordmark.svg" alt="react" width="40" height="40"/> 
+    </a>
+     <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="react" width="40" height="40"/> 
+    </a>
+     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original-wordmark.svg" alt="react" width="40" height="40"/> 
     </a>
 </p>
 
