@@ -1,18 +1,16 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Asep%20Sutrisna&fontSize=50&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20Informatics%20Engineering%20Student&descAlignY=55&descSize=20&animation=fadeIn" alt="Header" />
-</div>
+# Hi, I'm Asep Sutrisna Suhada Putra 👋 👨‍💻
 
-<h3 align="center">A passionate Full-Stack Developer from Bandung, Indonesia 🇮🇩</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=ASEP%20SUTRISNA%20SUHADA%20PUTRA&fontSize=40&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=20&animation=fadeIn" alt="Header" width="100%" />
+
+Full-Stack Web Developer with expertise in building scalable web applications using React, Next.js, Node.js, and Laravel. Experienced in developing end-to-end solutions, from UI/UX design in Figma and responsive front-end implementation to back-end architecture, API development, database management, and application testing. Strong foundation in software engineering, problem-solving, and modern web technologies, with a focus on creating efficient, maintainable, and user-centered digital products.
 
 ---
 
-### 👨‍💻 About Me
+### Find me around the web 🌍:
 
-- 🎓 I’m an Informatics Engineering student at **Bandung University of Technology**, currently focusing on **Systems Analysis**.
-- 💡 I love exploring new technologies and building **innovative web solutions** and mobile apps.
-- 💬 Ask me about **React, Express, Laravel, Kotlin, Java, and UI/UX Design**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/asep-sutrisna-suhada-putra) | [Instagram](https://www.instagram.com/callasut/)
-- ⚡ Fun fact: I believe in combining great **UI/UX** with robust backend architecture!
+- Sharing updates on [LinkedIn](https://www.linkedin.com/in/asep-sutrisna-suhada-putra/) 💼
+- Showcasing my projects on my [Website Portfolio](https://asutrisna-porto.vercel.app/) 🌐
+- Creating content on [YouTube](https://www.youtube.com/@Asut-01) 📹
 
 ---
 
@@ -46,14 +44,33 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AxsevSutrisna&show_icons=true&theme=radium&hide_border=true&bg_color=0d1117" alt="Asep's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxsevSutrisna&layout=compact&theme=radium&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AxsevSutrisna&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Asep's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxsevSutrisna&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AxsevSutrisna&theme=radium&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AxsevSutrisna&theme=radical" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AxsevSutrisna&theme=radical" alt="WakaTime Stats" />
+</div>
+
+---
+
+### 📌 Pinned Repositories
+
+<div align="center">
+  <a href="https://github.com/AxsevSutrisna/nama-repo-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AxsevSutrisna&repo=nama-repo-1&theme=radical" alt="Pinned Repo 1" width="48%" />
+  </a>
+  <a href="https://github.com/AxsevSutrisna/nama-repo-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AxsevSutrisna&repo=nama-repo-2&theme=radical" alt="Pinned Repo 2" width="48%" />
+  </a>
 </div>
 
 ---
