@@ -1,4 +1,4 @@
-# Hi, I'm Asep Sutrisna Suhada Putra 👋
+# Hi, I'm Asep Sutrisna Suhada Putra 👋 👨‍💻
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=ASEP%20SUTRISNA%20SUHADA%20PUTRA&fontSize=40&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=20&animation=fadeIn" alt="Header" width="100%" />
 
@@ -74,13 +74,6 @@ Full-Stack Web Developer with expertise in building scalable web applications us
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AxsevSutrisna&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Asep's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxsevSutrisna&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github.com/AxsevSutrisna/github-stats/raw/generated/overview.svg" alt="Overview Stats" width="48%" />
   <img src="https://github.com/AxsevSutrisna/github-stats/raw/generated/languages.svg" alt="Languages Stats" width="48%" />
 </div>
@@ -89,12 +82,6 @@ Full-Stack Web Developer with expertise in building scalable web applications us
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AxsevSutrisna&theme=radical" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AxsevSutrisna&theme=radical" alt="WakaTime Stats" />
 </div>
 
 ---
