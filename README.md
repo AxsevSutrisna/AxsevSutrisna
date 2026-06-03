@@ -1,4 +1,4 @@
-# Hi, I'm Asep Sutrisna Suhada Putra 👋 👨‍💻
+# Hi, I'm Asep Sutrisna Suhada Putra 👋
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=ASEP%20SUTRISNA%20SUHADA%20PUTRA&fontSize=40&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=20&animation=fadeIn" alt="Header" width="100%" />
 
