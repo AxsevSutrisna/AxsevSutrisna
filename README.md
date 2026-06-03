@@ -1,4 +1,4 @@
-# Hi, I'm Asep Sutrisna Suhada Putra 👋 👨‍💻
+# Hi, I'm Asep Sutrisna Suhada Putra 👋
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=ASEP%20SUTRISNA%20SUHADA%20PUTRA&fontSize=40&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=20&animation=fadeIn" alt="Header" width="100%" />
 
@@ -81,8 +81,8 @@ Full-Stack Web Developer with expertise in building scalable web applications us
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AxsevSutrisna/AxsevSutrisna/main/generated/overview.svg" alt="Overview Stats" width="48%" />
-  <img src="https://raw.githubusercontent.com/AxsevSutrisna/AxsevSutrisna/main/generated/languages.svg" alt="Languages Stats" width="48%" />
+  <img src="https://github.com/AxsevSutrisna/github-stats/raw/generated/overview.svg" alt="Overview Stats" width="48%" />
+  <img src="https://github.com/AxsevSutrisna/github-stats/raw/generated/languages.svg" alt="Languages Stats" width="48%" />
 </div>
 
 <br/>
