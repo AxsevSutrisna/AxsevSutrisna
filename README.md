@@ -88,14 +88,11 @@ Full-Stack Web Developer with expertise in building scalable web applications us
 
 ### 📌 Pinned Repositories
 
-<div align="center">
-  <a href="https://github.com/AxsevSutrisna/nama-repo-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AxsevSutrisna&repo=nama-repo-1&theme=radical" alt="Pinned Repo 1" width="48%" />
-  </a>
-  <a href="https://github.com/AxsevSutrisna/nama-repo-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AxsevSutrisna&repo=nama-repo-2&theme=radical" alt="Pinned Repo 2" width="48%" />
-  </a>
-</div>
+| Repository | Tech Stack |
+| :--- | :--- |
+| [![Abby n Bev Web](https://img.shields.io/badge/GitHub-Abby--n--Bev--Web--Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AxsevSutrisna/Abby-n-Bev-Web-Repository) | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> |
+| [![Project Management Office](https://img.shields.io/badge/GitHub-Project__Management__Office-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AxsevSutrisna/Project_Management_Office) | <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" /> |
+| [![Hijaukan Bumi](https://img.shields.io/badge/GitHub-Hijaukan__Bumi--HamsterFams-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AxsevSutrisna/Hijaukan_Bumi-HamsterFams) | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /> |
 
 ---
 
